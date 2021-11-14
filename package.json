@@ -18,5 +18,8 @@
   "homepage": "https://github.com/PatStiles/Fun-with-Web3.js#readme",
   "dependencies": {
     "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.6.8"
   }
 }
